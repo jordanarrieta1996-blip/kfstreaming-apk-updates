@@ -1,8 +1,8 @@
 {
-  "versionCode": 100005,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/jordanarrieta1996-blip/kfstreaming-apk-updates/releases/download/v100005/kfstreaming.apk",
-  "sha256": "298f304b61ae8c7de685b539d105cbaba10597a841ae1130a972549cb6ea3c81",
-  "notes": "Mejoras y correcciones de KFStreaming.",
+  "versionCode": 100006,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/jordanarrieta1996-blip/kfstreaming-apk-updates/releases/download/v100006/kfstreaming.apk",
+  "sha256": "aeafe2c6daa80cd0253b5ab863491bc24d6e3ec748a8cc49de4d1057cf5cc2af",
+  "notes": "Nuevo nombre YouTube APK. Apariencia roja y negra y logos anteriores, incluido el icono del teléfono.",
   "signerSha256": "9f8c3c73bc33bba9548108a4248567c9bc9692d63e1c2f018a7c80d0c8a45cf6"
 }
