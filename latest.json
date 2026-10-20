@@ -1,8 +1,8 @@
 {
-  "versionCode": 100027,
-  "versionName": "1.0.27",
-  "apkUrl": "https://github.com/jordanarrieta1996-blip/kfstreaming-apk-updates/releases/download/v100027/kfstreaming.apk",
-  "sha256": "b7b9d8fac7d2dd371c3ea9607f238531cda5348b1f4402db434e54b26ef58f21",
-  "notes": "Integración de suscripciones, Me gusta y playlists de Google",
+  "versionCode": 100036,
+  "versionName": "1.0.36",
+  "apkUrl": "https://github.com/jordanarrieta1996-blip/kfstreaming-apk-updates/releases/download/v100036/kfstreaming.apk",
+  "sha256": "4cdb8bee3d25c4392549201f80ac10786308be129a436271762370a0cd99df31",
+  "notes": "Nuevo inicio de sesión: Cliente, Panel y Superpanel",
   "signerSha256": "9f8c3c73bc33bba9548108a4248567c9bc9692d63e1c2f018a7c80d0c8a45cf6"
 }
